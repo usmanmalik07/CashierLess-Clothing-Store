@@ -1,7 +1,6 @@
 # Clothing Store Delivery and Inventory System
 
 This project implements a **Clothing Store Delivery and Inventory Management System** using C++. The system supports a variety of operations such as browsing inventory, managing sales, calculating delivery charges, and maintaining order information. It uses algorithms like **Dijkstra's** and **Prim's** to calculate delivery distances and optimize routing.
-
 ---
 
 ## Features
